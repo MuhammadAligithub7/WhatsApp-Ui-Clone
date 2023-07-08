@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![WhatsApp Image 2023-07-08 at 12 26 30 PM](https://github.com/MuhammadAligithub7/WhatsApp-Ui-Clone/assets/90595554/cd5fec93-ae8e-4373-89bf-cd3ef60a3593)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
